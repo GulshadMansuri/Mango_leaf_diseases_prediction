@@ -74,17 +74,17 @@ Step 3: Download Dependencies
 
 Step 4: Run Main file
 
-        - Nevigate to the Folder/Directory in Which you have Extracted the zip file
+    - Nevigate to the Folder/Directory in Which you have Extracted the zip file
 
-        - run the command 
+    - run the command 
 
-        -streamlit run main.py
+    -streamlit run main.py
 
-        Wait for a few seconds.
-        A browser window will automatically open showing the Mango Leaf Disease Detection App.
-        if it does not open automatically, the terminal will show a link like:
-        it will show something like this in your terminal http://localhost:8501
-        copy and past it in your Browser 
+    Wait for a few seconds.
+    A browser window will automatically open showing the Mango Leaf Disease Detection App.
+    if it does not open automatically, the terminal will show a link like:
+    it will show something like this in your terminal http://localhost:8501
+    copy and past it in your Browser 
 
 ## Instruction for testing 
 
