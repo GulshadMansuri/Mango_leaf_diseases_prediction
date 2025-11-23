@@ -78,8 +78,8 @@ Step 4: Run Main file
 - 
 - The app will tell you which disease the leaf has.
 
-!(images/Home.png)
+![](images/Home.png)
 
-!(images/Prediction-1.png)
+![](images/Prediction-1.png)
 
-!(images/Prediction-2.png)
+![](images/Prediction-2.png)
