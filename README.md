@@ -45,13 +45,13 @@ Step 1: Install Python
 
 - Go to the official Python website:
 
-       - https://www.python.org/downloads
+- https://www.python.org/downloads
 
-       - Download the latest version (it will say “Download for Windows/Mac”).
+- Download the latest version (it will say “Download for Windows/Mac”).
 
-       - Install it by clicking Next → Next → Install.
+- Install it by clicking Next → Next → Install.
 
-       - IMPORTANT: Make sure you tick the box “Add Python to PATH” before installing.
+- IMPORTANT: Make sure you tick the box “Add Python to PATH” before installing.
 
 Step 2: Download Folder From github
 
@@ -66,7 +66,7 @@ Step 3: Download Dependencies
 - Nevigate to the folder in which you  have extracted the zip file
     
 - run the command   
-    pip install requirement.txt 
+    - pip install requirement.txt 
     
 - it will download all the dependencies that are needed to run the Project
 
@@ -78,7 +78,7 @@ Step 4: Run Main file
 
 - run the command 
 
-- streamlit run main.py
+    - streamlit run main.py
 
 Wait for a few seconds.
 A browser window will automatically open showing the Mango Leaf Disease Detection App.
