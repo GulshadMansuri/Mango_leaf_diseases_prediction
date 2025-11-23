@@ -82,4 +82,4 @@ Step 4: Run Main file
 
 ![](images/Prediction-1.png)
 
-![](images/Prediction-2.png)
+![](images/prediction-2.png)
