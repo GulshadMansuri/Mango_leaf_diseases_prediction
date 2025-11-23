@@ -77,8 +77,7 @@ Step 4: Run Main file
 - Nevigate to the Folder/Directory in Which you have Extracted the zip file
 
 - run the command 
-
-    - streamlit run main.py
+    -streamlit run main.py
 
 Wait for a few seconds.
 A browser window will automatically open showing the Mango Leaf Disease Detection App.
