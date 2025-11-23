@@ -67,7 +67,7 @@ Step 3: Download Dependencies
     
 - run the command   
     ```bash
-    pip install requirement.txt 
+    pip install -r requirement.txt 
     ```
     
 - it will download all the dependencies that are needed to run the Project
