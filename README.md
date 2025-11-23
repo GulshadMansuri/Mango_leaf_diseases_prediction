@@ -69,13 +69,13 @@ Step 4: Run Main file
 - The app will open in your browser.
 
 - Click Disease Recognition in the left sidebar.
-- 
+
 - Click Upload Image.
-- 
+
 - Select a mango leaf photo.
-- 
+
 - Click Predict.
-- 
+
 - The app will tell you which disease the leaf has.
 
 ![](images/Home.png)
