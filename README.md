@@ -43,7 +43,7 @@ Welcome to the Mango Plant Disease Recognition System! 🌿🔍
 
 Step 1: Install Python
 
-       - Go to the official Python website:
+- Go to the official Python website:
 
        - https://www.python.org/downloads
 
@@ -55,36 +55,36 @@ Step 1: Install Python
 
 Step 2: Download Folder From github
 
-        - Download zip file from GitHub
+- Download zip file from GitHub
 
-        - Extract the file wherever you want
+- Extract the file wherever you want
         
 Step 3: Download Dependencies
 
-        - Open the terminal 
+- Open the terminal 
+    
+- Nevigate to the folder in which you  have extracted the zip file
+    
+- run the command   
+    pip install requirement.txt 
+    
+- it will download all the dependencies that are needed to run the Project
 
-        - Nevigate to the folder in which you  have extracted the zip file
-
-        - run the command   
-            pip install requirement.txt 
-
-        - it will download all the dependencies that are needed to run the Project
-
-        - Or you can download it manually
+- Or you can download it manually
 
 Step 4: Run Main file
 
-    - Nevigate to the Folder/Directory in Which you have Extracted the zip file
+- Nevigate to the Folder/Directory in Which you have Extracted the zip file
 
-    - run the command 
+- run the command 
 
-    -streamlit run main.py
+- streamlit run main.py
 
-    Wait for a few seconds.
-    A browser window will automatically open showing the Mango Leaf Disease Detection App.
-    if it does not open automatically, the terminal will show a link like:
-    it will show something like this in your terminal http://localhost:8501
-    copy and past it in your Browser 
+Wait for a few seconds.
+A browser window will automatically open showing the Mango Leaf Disease Detection App.
+if it does not open automatically, the terminal will show a link like:
+it will show something like this in your terminal http://localhost:8501
+copy and past it in your Browser 
 
 ## Instruction for testing 
 
