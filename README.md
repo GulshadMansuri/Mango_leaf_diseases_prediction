@@ -38,6 +38,10 @@ Welcome to the Mango Plant Disease Recognition System! 🌿🔍
 
 - Jupyter Notebook
 
+- Kaggle for dataset
+
+  https://www.kaggle.com/datasets/warcoder/mango-leaf-disease-dataset
+
 ## Steps to install & run the project
 
 Step 1: Install Python
