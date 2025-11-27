@@ -66,7 +66,7 @@ Step 3: Download Dependencies
 
 - Open the terminal 
     
-- Nevigate to the folder in which you  have extracted the zip file
+- Nevigate to the Mango_leaf_disease_prediction folder in which you have extracted the zip file
     
 - run the command   
     ```bash
@@ -79,7 +79,7 @@ Step 3: Download Dependencies
 
 Step 4: Run Main file
 
-- Nevigate to the Folder/Directory in Which you have Extracted the zip file
+- Nevigate to the Mango_leaf_disease_prediction Folder/Directory in Which you have Extracted the zip file
 
 - run the command 
     ```bash
